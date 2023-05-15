@@ -7,6 +7,10 @@
 		<p>
 			Let's build something awesome!
 		</p>
+		<hr>
+		#wire( "Counter" )#
+		<hr>
+		#wire( "Counter" )#
 	</div>
 </div>
 </cfoutput>
